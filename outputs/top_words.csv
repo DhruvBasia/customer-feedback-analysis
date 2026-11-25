@@ -1,0 +1,37 @@
+sentiment,word,weight
+negative,not,6.078
+negative,no,5.591
+negative,hours,5.354
+negative,delayed,4.807
+negative,delay,4.269
+negative,your,4.065
+negative,worst,4.057
+negative,nothing,4.002
+negative,cancelled,3.908
+negative,why,3.828
+negative,hour,3.816
+negative,lost,3.552
+neutral,hi,4.81
+neutral,can,4.205
+neutral,is there,3.447
+neutral,is your,3.38
+neutral,the apology,2.725
+neutral,or,2.695
+neutral,thats what,2.596
+neutral,do you,2.45
+neutral,understand,2.392
+neutral,but if,2.301
+neutral,do,2.285
+neutral,is flight,2.253
+positive,thanks,8.36
+positive,great,8.254
+positive,awesome,6.553
+positive,thank,5.735
+positive,love,5.523
+positive,thx,5.081
+positive,amazing,5.071
+positive,excellent,4.465
+positive,good,4.418
+positive,thank you,4.181
+positive,best,4.047
+positive,wonderful,3.905

@@ -1,0 +1,204 @@
+{
+  "sentiment": {
+    "best_model": "Logistic Regression",
+    "n_train": 11426,
+    "n_test": 2857,
+    "baseline_accuracy": 0.6352817640882044,
+    "baseline_macro_f1": 0.2589897260273973,
+    "accuracy": 0.8029401470073504,
+    "macro_f1": 0.7479531554128078,
+    "per_class": {
+      "negative": {
+        "precision": 0.8819,
+        "recall": 0.8722,
+        "f1-score": 0.877,
+        "support": 1815
+      },
+      "neutral": {
+        "precision": 0.625,
+        "recall": 0.6438,
+        "f1-score": 0.6343,
+        "support": 598
+      },
+      "positive": {
+        "precision": 0.7309,
+        "recall": 0.7342,
+        "f1-score": 0.7326,
+        "support": 444
+      }
+    },
+    "labels": [
+      "negative",
+      "neutral",
+      "positive"
+    ],
+    "confusion_matrix": [
+      [
+        1583,
+        169,
+        63
+      ],
+      [
+        156,
+        385,
+        57
+      ],
+      [
+        56,
+        62,
+        326
+      ]
+    ]
+  },
+  "theme": {
+    "best_model": "Logistic Regression",
+    "n_train": 6319,
+    "n_test": 1580,
+    "baseline_accuracy": 0.36455696202531646,
+    "baseline_macro_f1": 0.06679035250463822,
+    "accuracy": 0.6753164556962026,
+    "macro_f1": 0.5811888349364545,
+    "per_class": {
+      "Customer Service": {
+        "precision": 0.7644,
+        "recall": 0.7153,
+        "f1-score": 0.739,
+        "support": 576
+      },
+      "Late Flight": {
+        "precision": 0.7151,
+        "recall": 0.7303,
+        "f1-score": 0.7226,
+        "support": 330
+      },
+      "Cancelled Flight": {
+        "precision": 0.7293,
+        "recall": 0.7952,
+        "f1-score": 0.7608,
+        "support": 166
+      },
+      "Luggage Issue": {
+        "precision": 0.741,
+        "recall": 0.7785,
+        "f1-score": 0.7593,
+        "support": 158
+      },
+      "Bad Flight Experience": {
+        "precision": 0.4528,
+        "recall": 0.4174,
+        "f1-score": 0.4344,
+        "support": 115
+      },
+      "Booking Problem": {
+        "precision": 0.49,
+        "recall": 0.4667,
+        "f1-score": 0.478,
+        "support": 105
+      },
+      "Flight Attendant": {
+        "precision": 0.4286,
+        "recall": 0.5684,
+        "f1-score": 0.4887,
+        "support": 95
+      },
+      "Long Lines": {
+        "precision": 0.32,
+        "recall": 0.2286,
+        "f1-score": 0.2667,
+        "support": 35
+      }
+    },
+    "labels": [
+      "Customer Service",
+      "Late Flight",
+      "Cancelled Flight",
+      "Luggage Issue",
+      "Bad Flight Experience",
+      "Booking Problem",
+      "Flight Attendant",
+      "Long Lines"
+    ],
+    "confusion_matrix": [
+      [
+        412,
+        40,
+        29,
+        10,
+        16,
+        31,
+        32,
+        6
+      ],
+      [
+        30,
+        241,
+        5,
+        13,
+        18,
+        5,
+        10,
+        8
+      ],
+      [
+        11,
+        12,
+        132,
+        2,
+        4,
+        4,
+        1,
+        0
+      ],
+      [
+        13,
+        6,
+        2,
+        123,
+        4,
+        3,
+        7,
+        0
+      ],
+      [
+        20,
+        23,
+        0,
+        3,
+        48,
+        6,
+        15,
+        0
+      ],
+      [
+        26,
+        5,
+        12,
+        3,
+        6,
+        49,
+        3,
+        1
+      ],
+      [
+        17,
+        7,
+        0,
+        6,
+        7,
+        2,
+        54,
+        2
+      ],
+      [
+        10,
+        3,
+        1,
+        6,
+        3,
+        0,
+        4,
+        8
+      ]
+    ]
+  }
+}

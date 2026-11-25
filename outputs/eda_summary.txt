@@ -1,0 +1,33 @@
+EDA SUMMARY - Customer Feedback Analysis
+============================================
+Messages analysed      : 14,283
+Period                 : 16 Feb 2015 to 24 Feb 2015
+Airlines               : 6
+
+Sentiment split
+  negative :  9,074  (63.5%)
+  neutral  :  2,988  (20.9%)
+  positive :  2,221  (15.5%)
+
+Negative share by airline
+  US Airways     : 78.3%
+  American       : 72.3%
+  United         : 69.5%
+  Southwest      : 49.6%
+  Delta          : 44.3%
+  Virgin America : 36.6%
+
+Complaint themes (7,899 negative messages with a clear theme; 1,175 more were labelled "Can't Tell")
+  Customer Service      : 2,881  (36.5%)
+  Late Flight           : 1,652  (20.9%)
+  Cancelled Flight      :   828  (10.5%)
+  Luggage Issue         :   792  (10.0%)
+  Bad Flight Experience :   573  (7.3%)
+  Booking Problem       :   523  (6.6%)
+  Flight Attendant      :   473  (6.0%)
+  Long Lines            :   177  (2.2%)
+
+Median words per message
+  negative : 20
+  neutral  : 13
+  positive : 13
